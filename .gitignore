@@ -1,0 +1,11 @@
+# Archivos compilados
+bin/
+# Contiene la contraseña de MySQL: no se sube (use config.ejemplo.properties)
+config.properties
+# Fotos de prueba y documentos internos
+fotos/
+docs_equipo/
+lib/*.pdf
+lib/*.docx
+lib/*.drawio
+lib/*.png

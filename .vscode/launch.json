@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Bellas Mascotas",
+      "request": "launch",
+      "mainClass": "com.bellasmascotas.Main",
+      "cwd": "${workspaceFolder}",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Prueba de conexión",
+      "request": "launch",
+      "mainClass": "com.bellasmascotas.dao.PruebaConexion",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
